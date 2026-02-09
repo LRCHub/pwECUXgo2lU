@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "アオイハル",
+  "base_artist": "UtaGe!",
+  "createdAt": "2026-02-09T06:07:01.111499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アオイハル",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/01_アオイハル_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アオイハル",
+      "artist": "LUCKLIFE",
+      "has_synced": true,
+      "path": "select/02_アオイハル_LUCKLIFE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アオイハル",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/03_アオイハル_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アオイハル",
+      "artist": "Conton Candy",
+      "has_synced": true,
+      "path": "select/04_アオイハル_Conton_Candy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アオイハル",
+      "artist": "ミセカイ",
+      "has_synced": true,
+      "path": "select/05_アオイハル_ミセカイ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アオイハル",
+      "artist": "UtaGe!",
+      "has_synced": false,
+      "path": "select/pl_01_アオイハル_UtaGe!.txt"
+    }
+  ]
+}
